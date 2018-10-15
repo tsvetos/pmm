@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="saludo">Programa que dice hola</string>
+    <string name="pulsar">¡¡¡SALUDAR!!!</string>
+    <string name="escribe">Esribe aqui</string>
+</resources>
