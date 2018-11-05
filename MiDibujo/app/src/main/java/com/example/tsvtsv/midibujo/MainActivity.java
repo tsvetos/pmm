@@ -7,22 +7,32 @@ import android.graphics.Paint;
 import android.graphics.drawable.ShapeDrawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.AttributeSet;
 import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
+    View vista;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        MiDibujo mio= new MiDibujo(this);
-        setContentView(mio);
+       // MiDibujo mio= new MiDibujo(this);
+        setContentView(R.layout.activity_main);
+        vista = (View)findViewById(R.id.drawing_area);
+       // setContentView(mio);
+
     }
 
-    public class MiDibujo extends View {
+   /* public class MiDibujo extends View {
         private ShapeDrawable miDrawable;
 
         public MiDibujo(Context contexto) {
             super(contexto);
+        }
+
+        public MiDibujo (Context c, AttributeSet a){
+            super(c,a);
         }
 
         @Override
@@ -47,12 +57,9 @@ public class MainActivity extends AppCompatActivity {
             Paint paint = new Paint();
             paint.setStyle(Paint.Style.FILL);
 
-            //Cuadrado de arriba izquierda
+
             paint.setColor(Color.parseColor("#000000"));
 
-
-
-            //Cuadrado del medio
             paint.setColor(Color.parseColor("#FF0000"));
 
             int x = getWidth()/2;
@@ -73,5 +80,12 @@ public class MainActivity extends AppCompatActivity {
             canvas.drawRect(50, 1100, 200, 900, paint);
 
         }
-    }
+
+
+    } */
+
+
 }
+
+
+
