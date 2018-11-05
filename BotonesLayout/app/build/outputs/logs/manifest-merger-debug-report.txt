@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\75acae037dfda1ba321bcb67e66b8b2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cc3b6b2e37abf5c0ce680dcc5a8fb46a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f9daf5c8934fc3d87b94c22f5d177ca1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\cb97b2098a2b192d4b15bccc4f3fc373\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\82b433eaeae8239f8c1bc8261baf8624\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\160a25e09b4709dfed3d06ad4a6e95f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0389813e8a50ba5e4c6a099f1aa8c463\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\eddf796b69aa83cffd68c15fcd4873f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ddd2734dc058285a5384a94b6a2f00b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3b1896a14a8a49c78d2ebdc59d77ada0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b1249d7992e2a84186aa3fdf18f313cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\2c66c4b59a862fb9681a8982f9660459\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a1cec6e35581c9c5c24c16ca229a62ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ffbd22b3234704c8109f04682880fc21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7182acad76f66f9d68c9c19e3a5846b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\81420ed7857c53a5e8b21a7f93b9110d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\717ea4793e070240aacc91ae23dce11d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b9e8fcdd8c2d9d0e0653e89294818ca5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fa9538932aff685b8d7fb31c3baea7e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1b7d4298b999dcc9ad5a4827737f0ebb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\93af45dd345feb6dbdd7fd1994ee6cfc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\92c063cc549ee3b012eb4e77f8c8079e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b69bf5c70b49ab3ba0368e74e1c38bdc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\15b9255dd4000aa2b8d0194b335d6127\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\033406ee3a1eef77bbc6f3ef6234441f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8a41e8c69ad5954aa2aa2f42fa10ff3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6dd30bd43ed23d99decd45bfe9659f7b\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cc3b6b2e37abf5c0ce680dcc5a8fb46a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cc3b6b2e37abf5c0ce680dcc5a8fb46a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\81420ed7857c53a5e8b21a7f93b9110d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\81420ed7857c53a5e8b21a7f93b9110d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\717ea4793e070240aacc91ae23dce11d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\717ea4793e070240aacc91ae23dce11d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\81420ed7857c53a5e8b21a7f93b9110d\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.seve0.botoneslayout.MainActivity
+ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.seve0.botoneslayout.LayoutLineal
+ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:19:19-47
+activity#com.example.seve0.botoneslayout.LayoutTabla
+ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:20:9-49
+	android:name
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:20:19-46
+activity#com.example.seve0.botoneslayout.LayoutRelativo
+ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:21:9-52
+	android:name
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:21:19-49
+activity#com.example.seve0.botoneslayout.LayoutGrid
+ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:22:9-57
+	android:name
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml:22:19-45
+uses-sdk
+INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\75acae037dfda1ba321bcb67e66b8b2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\75acae037dfda1ba321bcb67e66b8b2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cc3b6b2e37abf5c0ce680dcc5a8fb46a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cc3b6b2e37abf5c0ce680dcc5a8fb46a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f9daf5c8934fc3d87b94c22f5d177ca1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f9daf5c8934fc3d87b94c22f5d177ca1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\cb97b2098a2b192d4b15bccc4f3fc373\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\cb97b2098a2b192d4b15bccc4f3fc373\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\82b433eaeae8239f8c1bc8261baf8624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\82b433eaeae8239f8c1bc8261baf8624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\160a25e09b4709dfed3d06ad4a6e95f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\160a25e09b4709dfed3d06ad4a6e95f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0389813e8a50ba5e4c6a099f1aa8c463\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0389813e8a50ba5e4c6a099f1aa8c463\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\eddf796b69aa83cffd68c15fcd4873f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\eddf796b69aa83cffd68c15fcd4873f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ddd2734dc058285a5384a94b6a2f00b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ddd2734dc058285a5384a94b6a2f00b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3b1896a14a8a49c78d2ebdc59d77ada0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3b1896a14a8a49c78d2ebdc59d77ada0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b1249d7992e2a84186aa3fdf18f313cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b1249d7992e2a84186aa3fdf18f313cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\2c66c4b59a862fb9681a8982f9660459\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\2c66c4b59a862fb9681a8982f9660459\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a1cec6e35581c9c5c24c16ca229a62ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a1cec6e35581c9c5c24c16ca229a62ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ffbd22b3234704c8109f04682880fc21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ffbd22b3234704c8109f04682880fc21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7182acad76f66f9d68c9c19e3a5846b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7182acad76f66f9d68c9c19e3a5846b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\81420ed7857c53a5e8b21a7f93b9110d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\81420ed7857c53a5e8b21a7f93b9110d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\717ea4793e070240aacc91ae23dce11d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\717ea4793e070240aacc91ae23dce11d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b9e8fcdd8c2d9d0e0653e89294818ca5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b9e8fcdd8c2d9d0e0653e89294818ca5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fa9538932aff685b8d7fb31c3baea7e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fa9538932aff685b8d7fb31c3baea7e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1b7d4298b999dcc9ad5a4827737f0ebb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1b7d4298b999dcc9ad5a4827737f0ebb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\93af45dd345feb6dbdd7fd1994ee6cfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\93af45dd345feb6dbdd7fd1994ee6cfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\92c063cc549ee3b012eb4e77f8c8079e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\92c063cc549ee3b012eb4e77f8c8079e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b69bf5c70b49ab3ba0368e74e1c38bdc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b69bf5c70b49ab3ba0368e74e1c38bdc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\15b9255dd4000aa2b8d0194b335d6127\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\15b9255dd4000aa2b8d0194b335d6127\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\033406ee3a1eef77bbc6f3ef6234441f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\033406ee3a1eef77bbc6f3ef6234441f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8a41e8c69ad5954aa2aa2f42fa10ff3c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8a41e8c69ad5954aa2aa2f42fa10ff3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6dd30bd43ed23d99decd45bfe9659f7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\seve0\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6dd30bd43ed23d99decd45bfe9659f7b\AndroidManifest.xml:20:5-44
+INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+		ADDED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Proyectos\BotonesLayout\app\src\main\AndroidManifest.xml

@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:gravity="center"
+    android:textAlignment="center">
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Presiona botons para ver layouts"
+        android:id="@+id/textView"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"
+        />
+
+    <Button
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:text="Layout Lineal"
+        android:id="@+id/button_lineal"
+        android:gravity="center"
+        android:layout_below="@+id/textView"
+        android:padding="20dp"
+        />
+
+    <Button
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:text="Layout en Tabla"
+        android:id="@+id/button_tabla"
+        android:gravity="center"
+        android:layout_below="@+id/textView"
+        android:padding="20dp"
+        />
+
+
+    <Button
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Layout Relativo"
+        android:id="@+id/button_relativo"
+        android:gravity="center"
+        android:layout_below="@+id/textView"
+        android:padding="20dp"
+        />
+
+    <Button
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Layout en grid"
+        android:id="@+id/button_grid"
+        android:gravity="center"
+        android:layout_below="@+id/textView"
+        android:padding="20dp"
+        />
+
+</LinearLayout>
