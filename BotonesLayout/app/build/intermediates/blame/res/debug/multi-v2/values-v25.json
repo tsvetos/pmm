@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Proyectos\\BotonesLayout\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
+            "outputFile": "/home/tsvtsv/pmm/BotonesLayout/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\seve0\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\75acae037dfda1ba321bcb67e66b8b2c\\res\\values-v25\\values-v25.xml",
+                    "source": "/home/tsvtsv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/7d6b5f492e15723b0204c8fc6457b60f/res/values-v25/values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

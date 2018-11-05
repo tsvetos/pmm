@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Proyectos\\BotonesLayout\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta\\values-ta.xml",
+            "outputFile": "/home/tsvtsv/pmm/BotonesLayout/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\seve0\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\75acae037dfda1ba321bcb67e66b8b2c\\res\\values-ta\\values-ta.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,219,317,432,521,628,754,832,909,1009,1114,1210,1305,1412,1514,1618,1713,1815,1913,1995,2097,2201,2298,2408,2510,2617,2774,2874",
-                        "endColumns": "113,97,114,88,106,125,77,76,99,104,95,94,106,101,103,94,101,97,81,101,103,96,109,101,106,156,99,79",
-                        "endOffsets": "214,312,427,516,623,749,827,904,1004,1109,1205,1300,1407,1509,1613,1708,1810,1908,1990,2092,2196,2293,2403,2505,2612,2769,2869,2949"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\seve0\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\81420ed7857c53a5e8b21a7f93b9110d\\res\\values-ta\\values-ta.xml",
+                    "source": "/home/tsvtsv/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/2660897ddbea04dfcb1a82759a16bc90/res/values-ta/values-ta.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,11 +13,21 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "30",
+                        "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "2954",
+                        "startOffsets": "1950",
                         "endColumns": "100",
-                        "endOffsets": "3050"
+                        "endOffsets": "2046"
+                    }
+                },
+                {
+                    "source": "/home/tsvtsv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/7d6b5f492e15723b0204c8fc6457b60f/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,317,432,521,628,754,832,909,991,1093,1197,1294,1404,1506,1613,1770,1870",
+                        "endColumns": "113,97,114,88,106,125,77,76,81,101,103,96,109,101,106,156,99,79",
+                        "endOffsets": "214,312,427,516,623,749,827,904,986,1088,1192,1289,1399,1501,1608,1765,1865,1945"
                     }
                 }
             ]
