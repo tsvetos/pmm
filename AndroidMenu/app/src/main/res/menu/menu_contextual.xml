@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/MnuOpc1"
+        android:title="Ayuda"></item>
+
+    <item
+        android:id="@+id/MnuOpc2"
+        android:title="@CopyRight"></item>
+
+    <item
+        android:id="@+id/MnuOpc3"
+        android:title="Opcion3">
+
+        <menu>
+
+            <item
+                android:id="@+id/MnuOpc3.1"
+                android:title="3.1"></item>
+
+            <item
+                android:id="@+id/MnuOpc3.2"
+                android:title="@3.2"></item>
+
+            <item
+                android:id="@+id/MnuOpc3.3"
+                android:title="3.3"></item>
+        </menu> >
+    </item>
+</menu>
