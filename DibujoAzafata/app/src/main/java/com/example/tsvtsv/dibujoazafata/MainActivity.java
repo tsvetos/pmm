@@ -1,4 +1,4 @@
-package com.example.tsvtsv.ejemplocanvas;
+package com.example.tsvtsv.dibujoazafata;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -15,9 +15,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(new EjemploView(this));
+        setContentView(R.layout.activity_main);
     }
-
     public class EjemploView extends View {
         private ShapeDrawable miDrawable;
         public EjemploView(Context contexto){

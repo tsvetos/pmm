@@ -1,5 +1,6 @@
 package com.example.tsvtsv.androidmenu;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.ContextMenu;
@@ -31,6 +32,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void ayuda(){
+        Intent activityIntent =
+                new Intent(this, Ayuda.class);
+        startActivity(activityIntent);
+    }
+
+
     public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo){
         super.onCreateContextMenu(menu, v, menuInfo);
         MenuInflater inflater = getMenuInflater();
@@ -47,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item){
         switch(item.getItemId()) {
             case R.id.MnuOpc1:
-                lblMensaje.setText("Opcion 1 pulsada");
+                ayuda();
                 return  true;
             case R.id.MnuOpc2:
                 lblMensaje.setText("Opcion 2 pulsada");

@@ -30,10 +30,7 @@ public class MiDibujo extends View {
         pincel1.setTextSize(60);
         pincel1.setTextAlign(Paint.Align.CENTER);
 
-
         canvas.drawCircle(540, 792, 450, pincel1);
-
-
 
         super.onDraw(canvas);
         int ancho = getWidth();
@@ -42,7 +39,6 @@ public class MiDibujo extends View {
         radius = 100;
         Paint paint = new Paint();
         paint.setStyle(Paint.Style.FILL);
-
 
         paint.setColor(Color.parseColor("#000000"));
 
