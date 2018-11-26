@@ -2,7 +2,9 @@ package com.example.tsvtsv.solobici;
 
 import android.app.Activity;
 import android.os.Bundle;
-public class AcercaDe extends Activity {
+import android.support.v7.app.AppCompatActivity;
+
+public class AcercaDe extends AppCompatActivity {
 
     public void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);

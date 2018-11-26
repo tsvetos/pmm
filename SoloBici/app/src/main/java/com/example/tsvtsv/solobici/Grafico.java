@@ -12,7 +12,7 @@ public class Grafico {
     private int angulo, rotacion;// Ángulo y velocidad rotación
     private int radioColision; // Para determinar si chocamos con algún objeto
     private View view;    // Vista donde dibujamos el gráfico
-    public static final int MAX_VELOCIDAD = 20;
+    public static final int maxVelocidad = 20;
 
     public Grafico(View view, Drawable drawable) {
         this.view = view;
@@ -20,6 +20,10 @@ public class Grafico {
         ancho = drawable.getIntrinsicWidth();
         alto = drawable.getIntrinsicHeight();
         radioColision = (alto + ancho) / 4;
+    }
+
+    public static double getMaxVelocidad() {
+        return maxVelocidad;
     }
 
     public void dibujaGrafico(Canvas canvas) {
@@ -33,7 +37,7 @@ public class Grafico {
         canvas.restore();
         //Calculo área donde no podrán solaparse/chocar
         //otros gráficos con este
-        int rInval = (int) distanciaE(0, 0, ancho, alto) / 2 + MAX_VELOCIDAD;
+        int rInval = (int) distanciaE(0, 0, ancho, alto) / 2 + maxVelocidad;
         view.invalidate(x - rInval, y - rInval, x + rInval, y + rInval);
     }
 
@@ -58,48 +62,34 @@ public class Grafico {
         angulo += rotacion; // Actualizamos ángulo
     }
 
-    public double distancia(Grafico g) {
-        return distanciaE(posX, posY, g.posX, g.posY);
-    }
+    public double distancia(Grafico g) { return distanciaE(posX, posY, g.posX, g.posY); }
 
     public boolean verificaColision(Grafico g) {
-        return (distancia(g) < (radioColision + g.radioColision));
-    }
+        return (distancia(g) < (radioColision + g.radioColision)); }
 
     public static double distanciaE(double x, double y, double x2, double y2) {
-        return Math.sqrt((x - x2) * (x - x2) + (y - y2) * (y - y2));
-    }
+        return Math.sqrt((x - x2) * (x - x2) + (y - y2) * (y - y2)); }
 
 
-    public void setIncX(double incX) {
-        this.incX = incX;
-    }
+    public void setIncX(double incX) { this.incX = incX; }
 
-    public void setIncY(double incY) {
-        this.incY = incY;
-    }
+    public void setIncY(double incY) { this.incY = incY; }
 
-    public void setAngulo(int angulo) {
-        this.angulo = angulo;
-    }
+    public void setAngulo(int angulo) { this.angulo = angulo; }
 
-    public void setRotacion(int rotacion) {
-        this.rotacion = rotacion;
-    }
+    public void setRotacion(int rotacion) { this.rotacion = rotacion; }
 
-    public int getAncho() {
-        return ancho;
-    }
+    public int getAncho() { return ancho; }
 
-    public int getAlto() {
-        return alto;
-    }
+    public int getAlto() { return alto; }
 
-    public void setPosX(double posX) {
-        this.posX = posX;
-    }
+    public void setPosX(double posX) { this.posX = posX; }
 
-    public void setPosY(double posY) {
-        this.posY = posY;
-    }
+    public void setPosY(double posY) { this.posY = posY; }
+
+    public int getAngulo() { return angulo; }
+
+    public double getIncX() { return incX;  }
+
+    public double getIncY() { return incY; }
 }

@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -14,7 +15,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 
-public class SoloBici extends Activity {
+public class SoloBici extends AppCompatActivity {
 
     private Button bAcercaDe;
     private Button bJuego;
