@@ -92,4 +92,12 @@ public class Grafico {
     public double getIncX() { return incX;  }
 
     public double getIncY() { return incY; }
+
+    public double getPosX() {
+        return posX;
+    }
+
+    public double getPosY() {
+        return posY;
+    }
 }
