@@ -1,0 +1,4 @@
+tengo una lista y un spinner
+opciones: area de circulo, area rectangulo, area triangulo
+elegida la opcion se piden los datos adecudados (editText)
+boton area que visualiza area de figura en otra pantalla
